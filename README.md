@@ -26,8 +26,8 @@ This is a simple website featuring a counter implemented using JavaScript. The w
 </p>
 <p>
 <img src="./assets/img/screenshots/screenshot5.png" width="200">
-<img src="./assets/img/screenshots/screenshot6.png" width="250">
-<img src="./assets/img/screenshots/screenshot7.png" width="250">
-<img src="./assets/img/screenshots/screenshot8.png" width="250">
+<img src="./assets/img/screenshots/screenshot6.png" width="200">
+<img src="./assets/img/screenshots/screenshot7.png" width="200">
+<img src="./assets/img/screenshots/screenshot8.png" width="200">
 </p>
 
